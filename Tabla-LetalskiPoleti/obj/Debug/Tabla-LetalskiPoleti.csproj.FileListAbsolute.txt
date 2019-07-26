@@ -1,0 +1,21 @@
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.exe.config
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.exe
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.pdb
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.csprojResolveAssemblyReference.cache
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla_LetalskiPoleti.Form1.resources
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla_LetalskiPoleti.Properties.Resources.resources
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.csproj.GenerateResource.Cache
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.exe
+D:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.pdb
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.exe.config
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.exe
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.pdb
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.exe
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.pdb
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.csprojResolveAssemblyReference.cache
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla_LetalskiPoleti.Form1.resources
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla_LetalskiPoleti.Properties.Resources.resources
+G:\NRS\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.csproj.GenerateResource.Cache
+C:\Sola2016-17\Stroka(C#, Winform, html, podatkovne baze,...)\Csharp\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\bin\Debug\Tabla-LetalskiPoleti.exe.config
+C:\Sola2016-17\Stroka(C#, Winform, html, podatkovne baze,...)\Csharp\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.exe
+C:\Sola2016-17\Stroka(C#, Winform, html, podatkovne baze,...)\Csharp\Tabla-LetalskiPoleti\Tabla-LetalskiPoleti\obj\Debug\Tabla-LetalskiPoleti.pdb
